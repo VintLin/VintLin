@@ -2,7 +2,7 @@
 
 现居福州，闲暇之余喜欢看书、写代码、摄影。
 
-因为受到[关于 Yak Shaving](https://antfu.me/posts/about-yak-shaving-zh)的启发打算Learn In Public 在互联网上找找事做。
+因为受到 [**About Yak Shaving**](https://antfu.me/posts/about-yak-shaving-zh) 的启发打算Learn In Public 在互联网上找找事做。
 
 目前还在不断学习中，虽然时常怀疑自己的能力，不过还是尽力做到日拱一卒。
 

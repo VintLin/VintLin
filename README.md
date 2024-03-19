@@ -12,4 +12,4 @@
 **邮箱**：vintonlin@gmail.com
 
 ---
-![Status](https://pixel-profile.vercel.app/api/github-stats?username=VintLin&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9))
+![Status](https://pixel-profile.vercel.app/api/github-stats?username=VintLin&theme=road_trip&pixelate_avatar=false)

@@ -1,15 +1,16 @@
-### 你好👋，我是[Vint](https://vinton.store)
+## Hello 👋, I’m [Vint](https://vinton.store)
 
-现居福州，闲暇之余喜欢看书、写代码、摄影。
+Currently living in Fuzhou. In my spare time, I enjoy reading, coding, and photography.
 
-因为受到 [**About Yak Shaving**](https://antfu.me/posts/about-yak-shaving-zh) 的启发打算Learn In Public 在互联网上找点事做。
+Inspired by [**About Yak Shaving**](https://antfu.me/posts/about-yak-shaving) , I plan to Learn In Public and find something to do on the internet.
 
-目前还在不断学习中，虽然时常怀疑自己的能力，不过还是尽力做到日拱一卒。
+I’m still learning constantly. Although I often doubt my abilities, I strive to make progress step by step every day.
 
-关于我的更多信息请看 [**这里**](https://vinton.store/about/)，如果你也对个人成长感兴趣我很乐意和你成为朋友，欢迎联系我。
+For more information about me, please see [**here**](https://vinton.store/about/). If you are also interested in personal growth, I would love to be friends with you. Feel free to contact me.
 
-### 联系方式
-**邮箱**：vintonlin@gmail.com
+### Contacts
 
----
+Email: vintonlin@gmail.com
+
+### Github Stats
 ![Status](https://pixel-profile.vercel.app/api/github-stats?username=VintLin&theme=road_trip&pixelate_avatar=false)

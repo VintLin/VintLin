@@ -1,4 +1,4 @@
-## Hello 👋, I’m [Vint](https://vinton.store)
+## Hi 👋, I’m [Vint](https://vinton.store)
 
 Currently living in Fuzhou. In my spare time, I enjoy reading, coding, and photography.
 

@@ -13,4 +13,4 @@ For more information about me, please see [**here**](https://vinton.store/about/
 Email: vintonlin@gmail.com
 
 ### Github Stats
-![Status](https://pixel-profile.vercel.app/api/github-stats?username=VintLin&theme=road_trip&pixelate_avatar=false)
+![Status](https://pixel-profile.vercel.app/api/github-stats?username=VintLin&theme=crt&pixelate_avatar=false)

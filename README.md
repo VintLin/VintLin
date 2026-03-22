@@ -6,7 +6,7 @@ Inspired by [**About Yak Shaving**](https://antfu.me/posts/about-yak-shaving) , 
 
 I’m still learning constantly. Although I often doubt my abilities, I strive to make progress step by step every day.
 
-For more information about me, please see [**here**](https://vinton.store/about/). If you are also interested in personal growth, I would love to be friends with you. Feel free to contact me.
+For more information about me, please see [**here**](https://vintlin.com/). If you are also interested in personal growth, I would love to be friends with you. Feel free to contact me.
 
 ### Contacts
 

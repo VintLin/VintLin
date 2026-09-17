@@ -12,7 +12,4 @@ For more information about me, please see [**here**](https://vintlin.com/). If y
 
 Email: vintonlin@gmail.com
 
-### Stats
-
 [![VibeUsage](https://vibecafe.ai/@vint/badge)](https://vibecafe.ai/@vint)
-![Status](https://pixel-profile.vercel.app/api/github-stats?username=VintLin&theme=fuji&pixelate_avatar=false)

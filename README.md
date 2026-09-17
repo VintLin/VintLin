@@ -1,15 +1,13 @@
 ## Hi 👋, I’m [Vint](https://vinton.store)
 
-Currently living in Fuzhou. In my spare time, I enjoy reading, coding, and photography.
-
 Inspired by [**About Yak Shaving**](https://antfu.me/posts/about-yak-shaving) , I plan to Learn In Public and find something to do on the internet.
 
-I’m still learning constantly. Although I often doubt my abilities, I strive to make progress step by step every day.
-
-For more information about me, please see [**here**](https://vintlin.com/). If you are also interested in personal growth, I would love to be friends with you. Feel free to contact me.
+For more information about me, please see here [**vintlin.com**](https://vintlin.com/). If you are also interested in personal growth, I would love to be friends with you. Feel free to contact me.
 
 ### Contacts
 
-Email: vintonlin@gmail.com
+- Email: [vintonlin@gmail.com](vintonlin@gmail.com)
+- X: [VintonLin](https://x.com/VintonLin)
 
-[![VibeUsage](https://vibecafe.ai/@vint/badge)](https://vibecafe.ai/@vint)
+### My Products:
+- [SkillFlow](https://github.com/VintLin/skill-flow) - Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.
